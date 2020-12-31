@@ -9,6 +9,9 @@ My contributions to the #30DayMapChallenge initiated by Topi Tjukanov.
 ![](https://raw.githubusercontent.com/tjukanovt/30DayMapChallenge/master/images/map_challenge_themes_2020.jpg)
 
 </div>
+
 ***
+
 ### Day 1: [Points](https://github.com/surbhi-bh/30-day-map-challenge/blob/main/VIZ/day1_points_googlelocation.png)
+
 ![](https://github.com/surbhi-bh/30-day-map-challenge/blob/main/VIZ/day1_points_googlelocation.png)
