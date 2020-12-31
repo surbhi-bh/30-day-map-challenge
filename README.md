@@ -8,5 +8,5 @@ My contributions to the [#30DayMapChallenge](https://github.com/tjukanovt/30DayM
 </div>
 ***
 ### Day 1: [Points](https://github.com/surbhi-bh/30-day-map-challenge/blob/main/VIZ/day1_points_googlelocation.png)
-![](https://github.com/surbhi-bh/brooklyn99/blob/main/brooklyn99rating.png)
+![](https://github.com/surbhi-bh/30-day-map-challenge/blob/main/VIZ/day1_points_googlelocation.png)
 
