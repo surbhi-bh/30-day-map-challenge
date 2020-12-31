@@ -3,7 +3,6 @@
 </h1>
 <div align="center">
 My contributions to the #30DayMapChallenge initiated by Topi Tjukanov.
-<br><br>
 ![](https://raw.githubusercontent.com/tjukanovt/30DayMapChallenge/master/images/map_challenge_themes_2020.jpg)
 </div>
 ***
