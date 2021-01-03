@@ -76,7 +76,7 @@ show <- c("Kasturba Gandhi Marg",
 ab$labs <- ifelse(ab$name %in% show, ab$name, "")
 
 # Remove overlap of labels
-findata <- do.call(rbind,lapply(unique(abc$labs), function(t){
+findata <- do.call(rbind,lapply(unique(ab$labs), function(t){
     h <- subset(ab, labs == t)
     f <-c(h$labs[1], rep("", nrow(h) - 1))
     h$labs <- f
