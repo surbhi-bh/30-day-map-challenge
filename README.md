@@ -4,7 +4,7 @@
 
 <div align="center">
 
-My contributions to the #30DayMapChallenge initiated by Topi Tjukanov.
+My contributions to the #30DayMapChallenge initiated by Topi Tjukanov. This README is work-in-progress.
 
 ![](https://raw.githubusercontent.com/tjukanovt/30DayMapChallenge/master/images/map_challenge_themes_2020.jpg)
 
@@ -12,6 +12,15 @@ My contributions to the #30DayMapChallenge initiated by Topi Tjukanov.
 
 ***
 
-### Day 1: [Points](https://github.com/surbhi-bh/30-day-map-challenge/blob/main/VIZ/day1_points_googlelocation.png)
+## Day 1: [Points](VIZ/day1_points_googlelocation.png)
 
-![](https://github.com/surbhi-bh/30-day-map-challenge/blob/main/VIZ/day1_points_googlelocation.png)
+![](VIZ/day1_points_googlelocation.png)
+
+[Code](CODE/day1_points_googlelocation.R)
+
+
+## Day 1: [Lines](VIZ/day2_lines_streetgender_delhi.png)
+
+![](VIZ/day2_lines_streetgender_delhi.png)
+
+[Code](CODE/day2_lines_streetgender_delhi.R)
