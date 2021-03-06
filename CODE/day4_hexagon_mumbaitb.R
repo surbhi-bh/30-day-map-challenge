@@ -1,3 +1,6 @@
+#Script: Surbhi Bhatia
+#Creds to atmajitgohil: https://atmajitgohil.com/2018/04/11/tile-grid-map-of-india-p2/
+
 library(ggplot2)
 library(gridExtra)
 library(geogrid)
