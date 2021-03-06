@@ -26,8 +26,8 @@ My contributions to the #30DayMapChallenge initiated by Topi Tjukanov. This READ
 [Code](CODE/day2_lines_streetgender_delhi.R)
 
 
-## Day 4: [Hexagons](VIZ/day2_hexagon_mumbaitb.png)
+## Day 4: [Hexagons](VIZ/day4_hexagon_mumbaitb.png)
 
-![](VIZ/day2_hexagon_mumbaitb.png)
+![](VIZ/day4_hexagon_mumbaitb.png)
 
-[Code](CODE/day2_hexagon_mumbaitb.R)
+[Code](CODE/day4_hexagon_mumbaitb.R)
