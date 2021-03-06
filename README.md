@@ -19,8 +19,15 @@ My contributions to the #30DayMapChallenge initiated by Topi Tjukanov. This READ
 [Code](CODE/day1_points_googlelocation.R)
 
 
-## Day 1: [Lines](VIZ/day2_lines_streetgender_delhi.png)
+## Day 2: [Lines](VIZ/day2_lines_streetgender_delhi.png)
 
 ![](VIZ/day2_lines_streetgender_delhi.png)
 
 [Code](CODE/day2_lines_streetgender_delhi.R)
+
+
+## Day 4: [Hexagons](VIZ/day2_hexagon_mumbaitb.png)
+
+![](VIZ/day2_hexagon_mumbaitb.png)
+
+[Code](CODE/day2_hexagon_mumbaitb.R)
