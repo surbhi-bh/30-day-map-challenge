@@ -28,7 +28,7 @@ bird_data$scientificName <- factor(bird_data$scientificName,
                                            "Iole indica (Jerdon, 1839)"))
 
 # Common name translations
-bird_data$commonName = revalue(bird_data$scientificName,
+bird_data$commonName <- revalue(bird_data$scientificName,
                                c("Ducula aenea (Linnaeus, 1766)" = "Green imperial pigeon",
                                  "Iole indica (Jerdon, 1839)" = "Yellow-browed bulbul",
                                  "Larvivora brunnea Hodgson, 1837" = "Indian blue robin", "Pycnonotus jocosus (Linnaeus, 1758)" = "Red-whiskered bulbul"))
