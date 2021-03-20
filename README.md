@@ -38,7 +38,7 @@ My contributions to the #30DayMapChallenge initiated by Topi Tjukanov. This READ
 
 [Code](CODE/day5678_colours_birds.R)
 
-## Day 5, 6, 7, 8: [Blue, Red, Green, Yellow](VIZ/day9_monochrome_mumbaibuildings.png)
+## Day 5, 6, 7, 8: [Monochrome](VIZ/day9_monochrome_mumbaibuildings.png)
 
 ![](VIZ/day9_monochrome_mumbaibuildings.png)
 
