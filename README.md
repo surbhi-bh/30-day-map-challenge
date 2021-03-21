@@ -26,6 +26,13 @@ My contributions to the #30DayMapChallenge initiated by Topi Tjukanov. This READ
 [Code](CODE/day2_lines_streetgender_delhi.R)
 
 
+## Day 3: [Polygons](VIZ/day3_polygons_strava.png)
+
+![](VIZ/day3_polygons_strava.png)
+
+[Code](CODE/day3_polygons_strava.R)
+
+
 ## Day 4: [Hexagons](VIZ/day4_hexagon_mumbaitb.png)
 
 ![](VIZ/day4_hexagon_mumbaitb.png)
