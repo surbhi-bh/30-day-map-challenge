@@ -61,7 +61,8 @@ gridmap <- ggplot(tdata,
                         fill = Status)) +  geom_rect(color = "gray34") +
     scale_y_reverse()  + scale_fill_manual(values = colors) +
       geom_text(aes(x = x, y = y, label = alpha.3), color = "black",
-                alpha = 0.5, nudge_x = 0.5, nudge_y = -0.5, size = 4)  +
+                alpha = 0.5, nudge_x = 0.5, nudge_y = -0.5,
+                fontface = "bold", size = 4.5)  +
     theme_void() +
     labs(title = "Recognition of same-sex marriages across the world",
          caption = "#30DayMapChallenge | Day 10 | Surbhi Bhatia | Data: Pew Research Center and Council of Foreign Relations, as of 2019.") +
