@@ -65,7 +65,7 @@ gridmap <- ggplot(tdata,
                 fontface = "bold", size = 4.5)  +
     theme_void() +
     labs(title = "Recognition of same-sex marriages across the world",
-         caption = "#30DayMapChallenge | Day 10 | Surbhi Bhatia | Data: Pew Research Center and Council of Foreign Relations, as of 2019.") +
+         caption = "#30DayMapChallenge | Day 10 | Surbhi Bhatia | Data: Pew Research Center and Council on Foreign Relations, as of 2019.") +
     theme(legend.position = c(0.9,0.96),
           plot.background = element_rect(fill="blanchedalmond", color = NA),
           legend.title = element_text(size = 20, family = "AvantGarde"),
