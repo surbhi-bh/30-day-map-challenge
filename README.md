@@ -51,7 +51,7 @@ My contributions to the #30DayMapChallenge initiated by Topi Tjukanov. This READ
 
 [Code](CODE/day9_monochrome_mumbaibuildings.R)
 
-## Day 10: [Monochrome](VIZ/day10_grid_samesexmarriage.png)
+## Day 10: [Grid](VIZ/day10_grid_samesexmarriage.png)
 
 ![](VIZ/day10_grid_samesexmarriage.png)
 
