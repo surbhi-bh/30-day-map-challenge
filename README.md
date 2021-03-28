@@ -56,3 +56,5 @@ My contributions to the #30DayMapChallenge initiated by Topi Tjukanov. This READ
 ![](VIZ/day10_grid_samesexmarriage.png)
 
 [Code](CODE/day10_grid_samesexmarriage.R)
+
+![](final.mp4)
