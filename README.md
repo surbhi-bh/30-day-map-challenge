@@ -62,4 +62,4 @@ My contributions to the #30DayMapChallenge initiated by Topi Tjukanov. This READ
 
 ![](VIZ/day22_movement_suezcanal.gif)
 
-[Made with QGIS]()
+[Made with QGIS]
