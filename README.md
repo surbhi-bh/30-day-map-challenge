@@ -57,10 +57,9 @@ My contributions to the #30DayMapChallenge initiated by Topi Tjukanov. This READ
 
 [Code](CODE/day10_grid_samesexmarriage.R)
 
-![](./final.mp4)
 
-<video width="320" height="240" controls>
-  <source src="final.mp4" type="video/mp4">
-</video>
+## Day 22: [Movement](VIZ/day22_movement_suezcanal.gif)
 
-![Alt Text](final.gif)
+![](VIZ/day22_movement_suezcanal.gif)
+
+[Made with QGIS]()
