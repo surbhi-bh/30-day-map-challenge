@@ -61,5 +61,11 @@ My contributions to the #30DayMapChallenge initiated by Topi Tjukanov. This READ
 ## Day 22: [Movement](VIZ/day22_movement_suezcanal.gif)
 
 ![](VIZ/day22_movement_suezcanal.gif)
+Made with QGIS
 
-[Made with QGIS]
+
+## Day 25: [covid-19](VIZ/day25_covid19_indiavaccination.png)
+
+![](VIZ/day25_covid19_indiavaccination.png)
+
+[Code](CODE/day25_covid19_indiavaccination.R)
