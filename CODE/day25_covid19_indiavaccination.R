@@ -343,7 +343,7 @@ finplot <- grid.arrange(p2, p1, ncol = 2,
                                      fontface = "bold",
                                      fontfamily = "AvantGarde")
                              ),
-              bottom = textGrob("Coloured portion represents proportion out of the whole shape, and not location of covid infections or vaccination.\n#30DayMapChallenge | Day 25 | Surbhi Bhatia | Data: OurWorldInData, ICMR Third National Sero-survey\n",
+              bottom = textGrob("Coloured portion represents proportion out of the whole shape, and not location of covid infections or vaccination.\n#30DayMapChallenge | Day 25 | Surbhi Bhatia | Data: OurWorldInData, ICMR third national sero-survey\n",
                                 gp=gpar(fontsize = 12,
                                         col = "black")))
                                       
