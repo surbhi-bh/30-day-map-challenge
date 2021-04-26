@@ -16,7 +16,7 @@ library(grid)
 sf_india <- readRDS("india_boundary.rds") %>%
     st_transform(CRS("+init=epsg:24383"))
 
-# Data on cases -- as of 10 April - latest available
+# Data on cases -- as of 24 April - latest available
 cases <- read.csv("india_cases.csv", header = T)
 vaccine <- read.csv("india_vaccine.csv", header = T)
 
@@ -184,7 +184,7 @@ p1 <- ggplot(ras_india) +
                                  "second" = "slateblue4")) +
     theme_void()+
     labs(title = "Progress of covid-19 vaccination in India",
-         subtitle = "As on April 10, 2021") +
+         subtitle = "As on April 24, 2021") +
     theme(
         text = element_text(family = "AvantGarde"),
         plot.title = element_text(size = 20,
