@@ -58,6 +58,13 @@ My contributions to the #30DayMapChallenge initiated by Topi Tjukanov. This READ
 [Code](CODE/day10_grid_samesexmarriage.R)
 
 
+## Day 11: [3D](VIZ/day11_3D_mumbairents.png)
+
+![](VIZ/day11_3D_mumbairents.png)
+
+[Code](CODE/day11_3D_mumbairents.R)
+
+
 ## Day 22: [Movement](VIZ/day22_movement_suezcanal.gif)
 
 ![](VIZ/day22_movement_suezcanal.gif)
@@ -69,3 +76,5 @@ Made with QGIS
 ![](VIZ/day25_covid19_indiavaccination.png)
 
 [Code](CODE/day25_covid19_indiavaccination.R)
+
+
