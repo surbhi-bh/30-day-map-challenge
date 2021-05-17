@@ -58,9 +58,9 @@ My contributions to the #30DayMapChallenge initiated by Topi Tjukanov. This READ
 [Code](CODE/day10_grid_samesexmarriage.R)
 
 
-## Day 11: [3D](VIZ/day11_3D_mumbairents.png)
+## Day 11: [3D](VIZ/day11_3d_mumbairents.png)
 
-![](VIZ/day11_3D_mumbairents.png)
+![](VIZ/day11_3d_mumbairents.png)
 
 [Code](CODE/day11_3D_mumbairents.R)
 
