@@ -1,6 +1,6 @@
 ---
 title: "From India, with love: covid-19 vaccines"
-subtitle: "Over 66 million vaccine doses have been exported to 93 countries\nunder GoI's 'Vaccine Maitri' initiative"
+subtitle: "Over 66 million doses have been exported to 93 countries under Indian government's initiative 'Vaccine Maitri'"
 date: "`r Sys.Date()`"
 fig_width: 10
 fig_height: 8
@@ -14,10 +14,38 @@ output:
     highlight: monochrome
     md_extensions: +smart
 ---
+```
+    
+```{r echo = TRUE, message = FALSE, warning = FALSE, fig.align='center',fig.width=9, fig.height=8}
+library(shiny)
+library(globe4r) 
+library(dplyr)
 
+# Read base file
+globeindiavax <- readRDS(file = "globeindiavax.rds")
+
+#################
+#Interactive plot
+##################
+create_globe(height = "100vh") %>%
+       globe_pov(20.5937, 78.9629) %>% 
+  globe_choropleth(
+    coords(
+      country = admin,
+      altitude = Units,
+      cap_color = qty
+    ), 
+    data = globeindiavax
+  ) %>% 
+    scale_choropleth_cap_color(palette = c("#ffc6c4",
+                                           "#f4a3a8",
+                                           "#cc607d",
+                                           "#ffff66",
+                                           "#672044")) %>%  
+    scale_choropleth_altitude(0.03, 0.1)
+```
 Data source:  [*Ministry of External Affairs, GoI*](https://www.mea.gov.in/vaccine-supply.htm). <br>
 Graphic made as part of the 30-day-map-challenge, for day 29 on the theme "globe".
-
 
 ```{r echo = TRUE, message = FALSE, warning = FALSE, fig.align='center',fig.width=9, fig.height=8}
 library(sf)
@@ -101,33 +129,4 @@ ggplot() +
                                       size = 12),
           plot.background = element_rect(color = NA))
     
-```
-    
-```{r echo = TRUE, message = FALSE, warning = FALSE, fig.align='center',fig.width=9, fig.height=8}
-library(shiny)
-library(globe4r) 
-library(dplyr)
 
-# Read base file
-globeindiavax <- readRDS(file = "globeindiavax.rds")
-
-#################
-#Interactive plot
-##################
-create_globe(height = "100vh") %>%
-       globe_pov(20.5937, 78.9629) %>% 
-  globe_choropleth(
-    coords(
-      country = admin,
-      altitude = Units,
-      cap_color = qty
-    ), 
-    data = globeindiavax
-  ) %>% 
-    scale_choropleth_cap_color(palette = c("#ffc6c4",
-                                           "#f4a3a8",
-                                           "#cc607d",
-                                           "#ffff66",
-                                           "#672044")) %>%  
-    scale_choropleth_altitude(0.03, 0.1)
-```
