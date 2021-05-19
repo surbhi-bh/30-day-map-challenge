@@ -78,3 +78,9 @@ Made with QGIS
 [Code](CODE/day25_covid19_indiavaccination.R)
 
 
+## Day 25: [covid-19](VIZ/day29_globe_indiavaxexport.png)
+
+![](VIZ/day29_globe_indiavaxexport.png)
+
+[Code](CODE/day29_globe_indiavaxexport.Rmd)
+
