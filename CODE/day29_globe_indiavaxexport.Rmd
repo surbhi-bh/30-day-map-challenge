@@ -14,7 +14,6 @@ output:
     highlight: monochrome
     md_extensions: +smart
 ---
-```
     
 ```{r echo = TRUE, message = FALSE, warning = FALSE, fig.align='center',fig.width=9, fig.height=8}
 library(shiny)
@@ -44,6 +43,7 @@ create_globe(height = "100vh") %>%
                                            "#672044")) %>%  
     scale_choropleth_altitude(0.03, 0.1)
 ```
+
 Data source:  [*Ministry of External Affairs, GoI*](https://www.mea.gov.in/vaccine-supply.htm). <br>
 Graphic made as part of the 30-day-map-challenge, for day 29 on the theme "globe".
 
@@ -129,4 +129,4 @@ ggplot() +
                                       size = 12),
           plot.background = element_rect(color = NA))
     
-
+```
