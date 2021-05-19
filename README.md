@@ -39,17 +39,20 @@ My contributions to the #30DayMapChallenge initiated by Topi Tjukanov. This READ
 
 [Code](CODE/day4_hexagon_mumbaitb.R)
 
+
 ## Day 5, 6, 7, 8: [Blue, Red, Green, Yellow](VIZ/day5678_colours_birds.png)
 
 ![](VIZ/day5678_colours_birds.png)
 
 [Code](CODE/day5678_colours_birds.R)
 
+
 ## Day 9: [Monochrome](VIZ/day9_monochrome_mumbaibuildings.png)
 
 ![](VIZ/day9_monochrome_mumbaibuildings.png)
 
 [Code](CODE/day9_monochrome_mumbaibuildings.R)
+
 
 ## Day 10: [Grid](VIZ/day10_grid_samesexmarriage.png)
 
@@ -78,7 +81,7 @@ Made with QGIS
 [Code](CODE/day25_covid19_indiavaccination.R)
 
 
-## Day 25: [covid-19](VIZ/day29_globe_indiavaxexport.png)
+## Day 25: [Globe](VIZ/day29_globe_indiavaxexport.png)
 
 ![](VIZ/day29_globe_indiavaxexport.png)
 
