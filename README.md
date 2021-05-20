@@ -81,9 +81,9 @@ Made with QGIS
 [Code](CODE/day25_covid19_indiavaccination.R)
 
 
-## Day 25: [Globe](VIZ/day29_globe_indiavaxexport.png)
+## Day 29: [Globe](VIZ/day29_globe_indiavaxexport.png)
 
 ![](VIZ/day29_globe_indiavaxexport.png)
 
 [Code](CODE/day29_globe_indiavaxexport.Rmd)
-
+Globes are 3D. So 3D version [here](https://surbhi-bh.github.io/covid19_india_vaccine_export.html).

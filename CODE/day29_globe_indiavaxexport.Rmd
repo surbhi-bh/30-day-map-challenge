@@ -16,7 +16,6 @@ output:
 ---
     
 ```{r echo = TRUE, message = FALSE, warning = FALSE, fig.align='center',fig.width=9, fig.height=8}
-library(shiny)
 library(globe4r) 
 library(dplyr)
 
