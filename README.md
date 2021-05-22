@@ -73,6 +73,7 @@ My contributions to the #30DayMapChallenge initiated by Topi Tjukanov. This READ
 
 ![](VIZ/day20_population_coviddeaths.gif)
 
+[Code](CODE/day20_population_coviddeaths.R)
 
 
 ## Day 22: [Movement](VIZ/day22_movement_suezcanal.gif)
