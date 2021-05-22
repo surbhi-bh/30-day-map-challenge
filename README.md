@@ -68,6 +68,13 @@ My contributions to the #30DayMapChallenge initiated by Topi Tjukanov. This READ
 [Code](CODE/day11_3D_mumbairents.R)
 
 
+
+## Day 20: [Population](VIZ/day20_population_coviddeaths.gif)
+
+![](VIZ/day20_population_coviddeaths.gif)
+
+
+
 ## Day 22: [Movement](VIZ/day22_movement_suezcanal.gif)
 
 ![](VIZ/day22_movement_suezcanal.gif)
@@ -85,5 +92,5 @@ Made with QGIS
 
 ![](VIZ/day29_globe_indiavaxexport.png)
 
-[Code](CODE/day29_globe_indiavaxexport.Rmd)
+[Code](CODE/day29_globe_indiavaxexport.Rmd).
 Globes are 3D. So 3D version [here](https://surbhi-bh.github.io/covid19_india_vaccine_export.html).
