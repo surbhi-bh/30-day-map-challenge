@@ -6,7 +6,7 @@ library(mapdeck)
 mum_rent <- read.csv("prop_data_clean.csv", header = TRUE)
 
 # Get map
-set_token("pk.eyJ1Ijoic3VyYmhpYmgiLCJhIjoiY2tvcmE1cGUwMGZhZTJ2bW1rZXZzNXBkayJ9.rWycdGgLT9nZB5IPJtm1Ng") ## your private API token
+set_token("xxxxx") ## your private API token
 
 # Clean up
 mum_rent$x <- ifelse(mum_rent$longitude < 72.789 & mum_rent$latitude < 19.15 ,
