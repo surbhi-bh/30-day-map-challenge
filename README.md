@@ -68,7 +68,7 @@ My contributions to the #30DayMapChallenge initiated by Topi Tjukanov. This READ
 [Code](CODE/day11_3D_mumbairents.R)
 
 
-## Day 15: [Connections](VIZ/day15_connections_mumbaibusslow.png)(VIZ/day15_connections_mumbaibusfast.png)
+## Day 15: [Connections](VIZ/day15_connections_mumbaibusslow.png, VIZ/day15_connections_mumbaibusfast.png)
 
 ![](VIZ/day15_connections_mumbaibusslow.png)
 ![](VIZ/day15_connections_mumbaibusfast.png)
