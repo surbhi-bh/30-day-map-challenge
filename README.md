@@ -76,6 +76,7 @@ My contributions to the #30DayMapChallenge initiated by Topi Tjukanov. This READ
 
 
 ## Day 16: [Islands](VIZ/day16_islands_mumbaibuildings.png)
+
 ![](VIZ/day16_islands_mumbaibuildings.png)
 Made with QGIS
 
