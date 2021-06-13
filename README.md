@@ -75,6 +75,9 @@ My contributions to the #30DayMapChallenge initiated by Topi Tjukanov. This READ
 [Code](CODE/day15_connections_mumbaibusspeed.R)
 
 
+## Day 16: [Islands](VIZ/day16_islands_mumbaibuildings.png)
+![](VIZ/day16_islands_mumbaibuildings.png)
+Made with QGIS
 
 ## Day 20: [Population](VIZ/day20_population_coviddeaths.gif)
 
