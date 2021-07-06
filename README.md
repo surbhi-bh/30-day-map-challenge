@@ -80,6 +80,14 @@ My contributions to the #30DayMapChallenge initiated by Topi Tjukanov. This READ
 ![](VIZ/day16_islands_mumbaibuildings.png)
 Made with QGIS
 
+
+## Day 17: [Historical map](VIZ/day17_historical_coffeemovement.png)
+
+![](VIZ/day17_historical_coffeemovement.png)
+
+[Code](CODE/day17_historical_coffeemovement.R)
+
+
 ## Day 20: [Population](VIZ/day20_population_coviddeaths.gif)
 
 ![](VIZ/day20_population_coviddeaths.gif)
