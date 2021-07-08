@@ -108,6 +108,13 @@ Made with QGIS
 [Code](CODE/day25_covid19_indiavaccination.R)
 
 
+## Day 26: [Map with a new tool](VIZ/day26_mapwithnewtool_covidvaccine_gender.png)
+
+![](VIZ/day26_mapwithnewtool_covidvaccine_gender.png)
+
+[Made with Tableau](https://tinyurl.com/3w7dx5cj)
+
+
 ## Day 29: [Globe](VIZ/day29_globe_indiavaxexport.png)
 
 ![](VIZ/day29_globe_indiavaxexport.png)
