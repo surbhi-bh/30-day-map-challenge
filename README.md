@@ -101,6 +101,13 @@ Made with QGIS
 Made with QGIS
 
 
+## Day 24: [Elevation](VIZ/day24_elevation_southIndia.png)
+
+![](VIZ/day24_elevation_southIndia.png)
+
+[Code](CODE/day24_elevation_southIndia.R)
+
+
 ## Day 25: [covid-19](VIZ/day25_covid19_indiavaccination.png)
 
 ![](VIZ/day25_covid19_indiavaccination.png)
