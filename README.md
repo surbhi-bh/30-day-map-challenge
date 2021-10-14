@@ -129,6 +129,13 @@ Made with QGIS
 [Made with Tableau](https://tinyurl.com/3w7dx5cj)
 
 
+## Day 28: [Non-geographic map](VIZ/day28_nongeographic_femaleLFPR.png)
+
+![](VIZ/day28_nongeographic_femaleLFPR.png)
+
+[Code](CODE/day28_nongeographic_femaleLFPR.R)
+
+
 ## Day 29: [Globe](VIZ/day29_globe_indiavaxexport.png)
 
 ![](VIZ/day29_globe_indiavaxexport.png)
