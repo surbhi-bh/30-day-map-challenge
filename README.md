@@ -68,6 +68,13 @@ My contributions to the #30DayMapChallenge initiated by Topi Tjukanov. This READ
 [Code](CODE/day11_3D_mumbairents.R)
 
 
+## Day 12: [Map not made with GIS software](VIZ/day12_nogis_doormat.jpeg)
+
+![](VIZ/day12_nogis_doormat.jpeg)
+
+Mat from IKEA. Acrylics on mat.
+
+
 ## Day 15: [Connections](VIZ/day15_connections_mumbaibusslow.png)
 ![](VIZ/day15_connections_mumbaibusslow.png)
 ![](VIZ/day15_connections_mumbaibusfast.png)
