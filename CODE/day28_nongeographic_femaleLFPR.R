@@ -1,8 +1,9 @@
-
 # Read packages
 library(ggplot2)
 library(ggtext)
+library(ggimage)
 library(showtext)
+library(cowplot)
 font_add_google("Arvo", "Arvo")
 font_add_google("Rosario", "Rosario")
 showtext_auto()
@@ -137,12 +138,12 @@ df2$bgcol <- as.factor(df2$bgcol)
 ## Plot ##
 ##########
 
-png(filename = "../VIZ/day28_nongeographic_femaleLFPR.png",
-    width = 13, height = 11, res = 100,
+png(filename = "day28_nongeographic_femaleLFPR.png",
+    width = 14, height = 11, res = 100,
     units = "in")
 
 
-ggplot() +
+flrplot <- ggplot() +
     geom_rect(data = df2,
               aes(fill = bgcol),
               xmin = -Inf,
@@ -153,11 +154,10 @@ ggplot() +
               aes(5, 5, width = 9, height = 8),
               fill = "azure1", color = "grey87",
               size = 0.5, stat = "unique") +
-                                        # Tonnes, rounded to the nearest tenth
     geom_text(data = df2, aes(5, -0.5,
                               label = paste0(WLFR, "%")), alpha = 1,
               family = "Arvo",
-              size = 5, vjust = 0, color = "grey97") +
+              size = 7, vjust = 0, color = "grey97") +
     geom_image(data = df2,
                aes(x=y, y= x * 3.5, image=icol),
                size=.13)    +
@@ -172,7 +172,7 @@ ggplot() +
                                  "darkcyan",
                                  "darksalmon",
                                  "darkorchid3")) +
-    theme_bw(base_size = 8, base_family = f1) +
+    theme_bw(base_size = 7, base_family = "Arvo") +
      theme(
         axis.title = element_blank(),
         legend.position = "none",
@@ -181,20 +181,22 @@ ggplot() +
         panel.grid = element_blank(),
         panel.spacing.x = unit(1.8, "lines"),
         panel.spacing.y = unit(-0.1, "lines"),
-        strip.text = element_text(size = 14, family = "Arvo", face = "bold"),
+        strip.text = element_text(size = 16, family = "Arvo", face = "bold"),
         strip.background = element_blank(),
         strip.text.x = element_text(color = "midnightblue"),
         panel.border = element_rect(color = NA, fill = NA, size = 0.6), 
-        strip.text.y = element_text(color = "midnightblue", angle = -90),
-        plot.background = element_rect(fill = "#FCF7DE", color = NA),
+        plot.background = element_rect(fill = "#FCF7DE", color = "#FCF7DE"),
         plot.title = element_text(size = 24, family = "Rosario",
                                   color = "black"),
         plot.subtitle = element_markdown(size = 20,
                                      family = "Rosario", color = "black"),
-
-
         plot.caption = element_text(size = 14, color = "black"))
 
+
+flrplot <- cowplot::ggdraw(flrplot) + 
+    theme(plot.background = element_rect(fill= "#FCF7DE", color = "#FCF7DE"))
+
+flrplot
 
 dev.off()
 
