@@ -95,6 +95,13 @@ Made with QGIS
 [Code](CODE/day17_historical_coffeemovement.R)
 
 
+## Day 19: [Null](VIZ/day19_null_coalplantsnorth.png)
+![](VIZ/day19_null_coalplantsnorth.png)
+![](VIZ/day19_null_coalplantssouth.png)
+
+[Code](CODE/day19_null_coalplants.R)
+
+
 ## Day 20: [Population](VIZ/day20_population_coviddeaths.gif)
 
 ![](VIZ/day20_population_coviddeaths.gif)
