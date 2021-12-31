@@ -6,7 +6,7 @@
 
 My contributions to the #30DayMapChallenge initiated by Topi Tjukanov.
 
-![](map_challenge_themes_2020.jpg)
+![](VIZ/map_challenge_themes_2020.jpg)
 
 </div>
 
