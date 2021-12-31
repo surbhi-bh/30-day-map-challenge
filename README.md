@@ -4,9 +4,9 @@
 
 <div align="center">
 
-My contributions to the #30DayMapChallenge initiated by Topi Tjukanov. This README is work-in-progress.
+My contributions to the #30DayMapChallenge initiated by Topi Tjukanov.
 
-![](https://raw.githubusercontent.com/tjukanovt/30DayMapChallenge/master/images/map_challenge_themes_2020.jpg)
+![](map_challenge_themes_2020.jpg)
 
 </div>
 
