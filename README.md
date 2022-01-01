@@ -127,6 +127,7 @@ Made with QGIS
 
 [Code](CODE/day23_boundaries_indialongesttrain.R)
 
+
 ## Day 24: [Elevation](VIZ/day24_elevation_southIndia.png)
 
 ![](VIZ/day24_elevation_southIndia.png)
