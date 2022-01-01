@@ -7,8 +7,9 @@ library(ggplot2)
 library(maptools)
 library(dplyr)
 library(stringr)
+library(gganimate)
 
-# India shapefiles
+
 com <- st_read("./output.shp") #district
 india_map <- st_read("../INDIA_DISTRICT_SHAPEFILE/Admin2.shp") #state
 
@@ -27,9 +28,6 @@ data$stop <- as.numeric(data$stop)
 # Locator symbols
 start <- "start.png"
 end <- "end.png"
-
-# Fix name case
-# data$label_names <- str_to_title(data$name)
 
 # Duplicate for keeps -- to input image
 data_forimage <- data
@@ -94,8 +92,8 @@ p <- ggplot() +
              label = data_forimage$label_names[59],
              color="darkred",
            size= 4, fontface = "italic", family = "Lato Medium") +
-    annotate("text", x = data$lon - 0.9,
-             y = data$lat - 0.8 , 
+    annotate("text", x = data$lon - 0.5,
+             y = data$lat - 0.5 , 
            label = data$label_names, color="black",
            size= 4, fontface = "italic", family = "Lato Medium") +
     transition_reveal(along = data$sno,
