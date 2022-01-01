@@ -121,6 +121,12 @@ Made with QGIS
 Made with QGIS
 
 
+## Day 23: [Boundaries](VIZ/day23_boundaries_indialongesttrain.gif)
+
+![](VIZ/day23_boundaries_indialongesttrain.gif)
+
+[Code](CODE/day23_boundaries_indialongesttrain.R)
+
 ## Day 24: [Elevation](VIZ/day24_elevation_southIndia.png)
 
 ![](VIZ/day24_elevation_southIndia.png)
