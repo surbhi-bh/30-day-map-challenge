@@ -115,6 +115,13 @@ Made with QGIS
 [Code](CODE/day20_population_coviddeaths.R)
 
 
+## Day 21: [Population](VIZ/day21_water_riverbasin.png)
+
+![](VIZ/day21_water_riverbasin.png)
+
+Made with QGIS
+
+
 ## Day 22: [Movement](VIZ/day22_movement_suezcanal.gif)
 
 ![](VIZ/day22_movement_suezcanal.gif)
