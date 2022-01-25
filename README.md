@@ -115,7 +115,7 @@ Made with QGIS
 [Code](CODE/day20_population_coviddeaths.R)
 
 
-## Day 21: [Population](VIZ/day21_water_riverbasin.png)
+## Day 21: [Water](VIZ/day21_water_riverbasin.png)
 
 ![](VIZ/day21_water_riverbasin.png)
 
