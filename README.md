@@ -156,6 +156,12 @@ Made with QGIS
 [Made with Tableau](https://tinyurl.com/3w7dx5cj)
 
 
+## Day 27: [Big or small data](VIZ/day27_bigsmalldata_palindrome.png)
+
+![](VIZ/day27_bigsmalldata_palindrome.png)
+
+[Code](CODE/day27_bigsmalldata_palindrome.R)
+
 ## Day 28: [Non-geographic map](VIZ/day28_nongeographic_femaleLFPR.png)
 
 ![](VIZ/day28_nongeographic_femaleLFPR.png)
