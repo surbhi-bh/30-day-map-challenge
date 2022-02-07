@@ -175,3 +175,10 @@ Made with QGIS
 
 [Code](CODE/day29_globe_indiavaxexport.Rmd).
 Globes are 3D. So 3D version [here](https://surbhi-bh.github.io/covid19_india_vaccine_export.html).
+
+
+## Day 38: [A map](VIZ/day30_amap_IndiafacePM.png)
+
+![](VIZ/day30_amap_IndiafacePM.png)
+
+Inspired by [FOAN](https://www.guneysoykan.com/faceofanation).
