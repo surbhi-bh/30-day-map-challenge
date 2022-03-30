@@ -75,6 +75,14 @@ My contributions to the #30DayMapChallenge initiated by Topi Tjukanov.
 Mat from IKEA. Acrylics on mat.
 
 
+## Day 13: [Raster](VIZ/day13_raster_delhipop.png)
+
+![](VIZ/day13_raster_delhipop.png)
+
+[Code](CODE/day13_raster_delhipop.R)
+
+
+
 ## Day 14: [Climate change](VIZ/day14_climatechange_mumbaisealevel.png)
 
 ![](VIZ/day14_climatechange_mumbaisealevel.png)
