@@ -109,6 +109,13 @@ Made with QGIS
 [Code](CODE/day17_historical_coffeemovement.R)
 
 
+## Day 18: [Landuse](VIZ/day18_landuse_delhi.png)
+
+![](VIZ/day18_landuse_delhi.png)
+
+[Code](CODE/day18_landuse_delhi.R)
+
+
 ## Day 19: [Null](VIZ/day19_null_coalplantsnorth.png)
 ![](VIZ/day19_null_coalplantsnorth.png)
 ![](VIZ/day19_null_coalplantssouth.png)
